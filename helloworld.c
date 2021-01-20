@@ -7,11 +7,16 @@ int main() {
 
 printf("Hello World")
 
-int add(int first, int second){
+void add(int first, int second){
 
     printf(first+second);
 }
 
+void div(int first, int second){
+ printf(first/second);
+}
+
 int add(a,b);
+int div(a,b);
 
 }
