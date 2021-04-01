@@ -5,15 +5,18 @@ int main() {
     int a = 5;
     int b = 6;
 
-printf("Hello World")
+printf("Hello World");
 
 void add(int first, int second){
-
     printf(first+second);
 }
 
-void div(int first, int second){
- printf(first/second);
+void div(int fir, int sec){
+ printf(fir/sec;
+}
+
+void min(int f, int s){
+    printf(f-s);
 }
 
 int add(a,b);
